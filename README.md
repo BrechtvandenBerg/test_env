@@ -1,2 +1,3 @@
-# CellBio_Internship
+# Test environment
+
 Repo for testing and developing
